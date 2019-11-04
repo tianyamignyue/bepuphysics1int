@@ -1,1 +1,1 @@
-*This is a fork of the [bepuphysics v1](https://github.com/bepu/bepuphysics1) by sam-vdp*
+*This is a fork of the [bepuphysics1int] (https://github.com/sam-vdp/bepuphysics1int) by sam-vdp*
